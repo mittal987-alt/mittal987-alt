@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/33300142/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/33300290/README.2.md)
 <!--
   GitHub Profile README for mittal987-alt
   Replace any project placeholders only after confirming the correct repository URLs.
@@ -22,6 +22,9 @@
   <p>
     <a href="https://github.com/mittal987-alt">
       <img src="https://img.shields.io/badge/GitHub-mittal987--alt-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    </a>
+    <a href="https://www.linkedin.com/in/aayush-mittal-836326327">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
     </a>
     <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-2563eb?style=for-the-badge" alt="Focus: Full-Stack and AI" />
     <img src="https://img.shields.io/badge/Status-Always%20Learning-7c3aed?style=for-the-badge" alt="Always learning" />
@@ -158,6 +161,9 @@ A personal-finance application concept with bank-statement analysis, transaction
 
   <a href="https://github.com/mittal987-alt">
     <img src="https://img.shields.io/badge/GitHub-View%20my%20repositories-181717?style=for-the-badge&logo=github" alt="View GitHub repositories" />
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-mittal-836326327">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 
   <p>Thanks for visiting! Feel free to explore my repositories and follow along as I build and learn. ✨</p>
